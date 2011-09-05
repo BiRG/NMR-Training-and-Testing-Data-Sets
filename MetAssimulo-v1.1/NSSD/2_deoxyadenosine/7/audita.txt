@@ -1,0 +1,14 @@
+##TITLE= Audit trail, XWIN-NMR		Version 3.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker Analytik GmbH
+##OWNER= jps30
+$$ C:\u/data/jps30/nmr/2_deoxyadenosine/7/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-08-17 21:03:05.11 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 64K
+       04 60 7E 0C 35 2F 6F B5 27 CD 41 F2 9B 7D C7 32>)
+##END=
+
+$$ hash MD5
+$$ D9 07 2F A1 95 3D C1 F3 AC 72 3A 6D 3F D7 3D 13

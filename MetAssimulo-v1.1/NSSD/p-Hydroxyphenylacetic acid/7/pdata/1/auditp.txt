@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ O:/data/tebbels/nmr/p-Hydroxyphenylacetic acid/7/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-07-23 18:06:19.68 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 64K
+       C6 6B 0B 7B AF BE 18 1E C4 A8 A4 E0 32 33 ED 9A>)
+(   2,<2010-05-25 14:48:51.850 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       efp BC_mod = 6 BCFW = 0.5 LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 80.82349 PHC1 = -33.0347 TDeff = 16K SI = 64K 
+       data hash MD5: 64K
+       9B 36 C1 C7 0D 3A B7 D2 31 50 C7 F4 ED 51 7C 14>)
+(   3,<2010-05-25 14:49:11.042 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 8255 48939 -2.228620e+005 0.000000e+000 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 64K
+       EC 7C CF 3C 35 CB 31 6B ED 0B 71 BD 81 5B 9C 13>)
+##END=
+
+$$ hash MD5
+$$ A0 20 56 9A 36 7A 28 13 D2 3B 04 BE 5A 0E 9D 3D

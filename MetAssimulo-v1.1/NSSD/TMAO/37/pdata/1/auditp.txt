@@ -1,0 +1,26 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ O:/data/tebbels/nmr/TMAO/37/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2010-05-25 15:46:02.279 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <efp BC_mod = 6 BCFW = 0.3 LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 29.99712 PHC1 = -18.2 SI = 64K 
+       data hash MD5: 64K
+       92 3E 19 F5 A7 2A 21 6F 46 03 25 18 B0 A2 E4 F8>)
+(   2,<2010-05-25 15:47:39.098 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 0 65536 -3.890301e+004 8.054044e-002 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 64K
+       1E C9 FF 72 0F FA 01 4B ED 8C 8F 05 E7 7E DA 67>)
+(   3,<2010-05-25 15:48:29.922 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 0 36658 -7.330970e+002 -1.193192e-001 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 64K
+       AF ED 09 65 75 3C 95 21 81 FB F9 B1 86 BC E7 13>)
+(   4,<2010-05-25 15:49:23.560 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 36663 28764 -3.421119e+003 1.982292e-001 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 64K
+       D4 F0 20 3C 51 4F 49 7D 5D B4 27 11 77 BF 86 CB>)
+##END=
+
+$$ hash MD5
+$$ 7B 39 E5 ED B4 34 EF D2 CE 34 11 2B 7D 3A B1 60

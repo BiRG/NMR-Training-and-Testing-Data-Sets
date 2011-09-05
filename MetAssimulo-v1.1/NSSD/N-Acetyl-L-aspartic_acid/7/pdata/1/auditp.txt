@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ O:/data/tebbels/nmr/N-Acetyl-L-aspartic_acid/7/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-11-01 17:18:19.78 +000>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 64K
+       B6 D2 C6 FB 75 D7 42 68 44 BA DF BB 72 10 21 45>)
+(   2,<2010-05-25 14:21:36.685 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       efp BC_mod = 6 BCFW = 0.3 LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = -76.17715 PHC1 = -41.54697 TDeff = 16K SI = 64K 
+       data hash MD5: 64K
+       99 08 BD 2E EE 6B 94 A7 18 AF 17 42 10 29 3B C0>)
+(   3,<2010-05-25 14:22:14.618 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 63 32426 -5.948311e+005 0.000000e+000 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 64K
+       80 4A 41 63 B5 91 AE B0 21 FB 23 6D 04 FB C1 77>)
+##END=
+
+$$ hash MD5
+$$ 14 00 C5 8B 38 88 32 7A CA C7 2A 50 01 A6 DF 91

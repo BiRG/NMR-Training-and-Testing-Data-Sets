@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TOPSPIN		Version 2.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ 2010-05-25 14:41:11.381 +0100  IC\tebbels@DS-TEBBELSXP
+$$ O:/data/tebbels/nmr/NMND/40/pdata/1/assocs
+$$ process C:\Bruker\TOPSPIN\prog\mod\dataserver.exe
+##$MULTDISP= <O:/data/tebbels/nmr/N-methylnicotinic_acid/100/pdata/1>
+##END=

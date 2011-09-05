@@ -1,0 +1,19 @@
+##TITLE= Parameter file, XWIN-NMR		Version 3.5
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= dcrock
+$$ Mon Sep 13 11:55:40 2004 GMT Standard Time (UT+1h)  IC\dcrock@BC-DCROCK
+$$ D:/data/dcrock/nmr/std020718/100/pdata/1/curdat2
+##$DU2= <D:>
+##$DU3= <D:>
+##$EXPNO2= 40
+##$EXPNO3= 100
+##$NAME2= <std020405>
+##$NAME3= <std020718>
+##$PROCNO2= 1
+##$PROCNO3= 2
+##$TYPE= <nmr>
+##$USER2= <dcrock>
+##$USER3= <dcrock>
+##END=

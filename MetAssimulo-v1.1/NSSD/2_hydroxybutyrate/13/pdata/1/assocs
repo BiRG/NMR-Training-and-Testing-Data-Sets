@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TOPSPIN		Version 2.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ 2010-05-24 12:56:54.524 +0100  IC\tebbels@DS-TEBBELSXP
+$$ O:/data/tebbels/nmr/2_hydroxybutyrate/13/pdata/1/assocs
+$$ process C:\Bruker\TOPSPIN\prog\mod\dataserver.exe
+##$MULTDISP= <>
+##END=

@@ -1,0 +1,16 @@
+##TITLE= Audit trail, XWIN-NMR		Version 3.5
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= dcrock
+$$ /u/data/dcrock/nmr/dcrock230204/22/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2004-02-23 17:31:09.17 +0000>,<dcrock>,<bc-jkn-41>,
+      <created by zg, POWCHK disabled, PULCHK disabled
+       configuration hash MD5:
+       A1 8F C4 8D 11 B3 AE F0 43 95 71 9A E8 EA B5 30
+       data hash MD5: 64K
+       F3 B0 0B D0 76 DF 5B 62 5D EA 3A 5B A8 D3 D5 83>)
+##END=
+
+$$ hash MD5
+$$ 56 B4 72 F3 AA 9B 19 70 61 B9 80 34 25 64 EB 81

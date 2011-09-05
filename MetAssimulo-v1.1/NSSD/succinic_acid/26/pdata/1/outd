@@ -1,0 +1,15 @@
+##TITLE= Parameter file, XWIN-NMR		Version 3.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##ORIGIN= Bruker Analytik GmbH
+##OWNER= comet
+$$ Wed Apr  7 11:56:41 2004 BST (UT+1h)  comet@bc-jkn-17.sk.med.ic.ac.uk
+$$ /u/prog/curdir/changer/inmrchanger/Apr07-2004-1150-comet/1/data/nmr/derek070404/26/pdata/1/outd
+##$CURPLOT= <hplj8000>
+##$CURPRIN= <peakfile>
+##$DFORMAT= <normdp>
+##$LAYOUT= <>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##$SURQMSG= 1
+##END=

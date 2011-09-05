@@ -1,0 +1,27 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ O:/data/tebbels/nmr/2_deoxycytidine/7/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-08-25 21:20:31.30 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 64K
+       57 FB C5 78 09 6C FC B1 F8 8C 4D 54 AF 94 FF 16>)
+(   2,<2010-05-24 12:52:28.329 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       efp BC_mod = 6 BCFW = 0.2 LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = -51.02915 PHC1 = -61.41894 TDeff = 16K SI = 64K 
+       data hash MD5: 64K
+       CA 6C 01 21 E0 80 73 20 2A A9 88 3F 42 62 1C 69>)
+(   3,<2010-05-24 12:53:34.413 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <pk fgphup PHC0 = -15.13657 PHC1 = 19 
+       data hash MD5: 64K
+       EF C5 15 CE 38 3A 10 4F 5F 0A 7D 0B 76 F0 3B 94>)
+(   4,<2010-05-24 15:25:33.708 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 16951 36624 -1.462873e+005 0.000000e+000 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 64K
+       9C DE BD A9 C6 35 8F 8E 58 98 9F 15 92 29 6F 2A>)
+##END=
+
+$$ hash MD5
+$$ EE 65 75 10 55 BA 24 4B F0 04 57 CA 58 B0 DA 69

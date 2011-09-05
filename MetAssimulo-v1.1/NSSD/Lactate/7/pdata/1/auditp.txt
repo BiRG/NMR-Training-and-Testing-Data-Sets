@@ -1,0 +1,19 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ O:/data/tebbels/nmr/Lactate/7/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-08-14 03:43:57.21 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 64K
+       38 E1 42 BA 5E 32 FE AF D3 58 F6 C6 CE BD 06 0C>)
+(   2,<2010-05-25 14:04:32.974 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       efp BC_mod = 6 BCFW = 0.3 LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 39.34657 PHC1 = -33.29291 TDeff = 16K SI = 64K 
+       data hash MD5: 64K
+       E3 FF 43 D4 D5 9E A0 2B B2 04 A1 B9 F4 62 89 69>)
+##END=
+
+$$ hash MD5
+$$ 7D 05 7C 06 5B 5A B0 BC 0E CD 80 9C 33 57 22 90

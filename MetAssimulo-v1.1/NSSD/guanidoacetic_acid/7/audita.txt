@@ -1,0 +1,16 @@
+##TITLE= Audit trail, XWIN-NMR		Version 3.5
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= comet
+$$ /u/data/comet/nmr/IKY_Standards_270507/5/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2007-05-27 13:23:45.21 +0100>,<comet>,<bc-jkn-17.sk.med.ic.ac.uk>,
+      <created by zg, POWCHK disabled, PULCHK disabled
+       configuration hash MD5:
+       A5 81 73 8C 53 CC 74 CF 3E 77 E9 D4 3D 79 22 C2
+       data hash MD5: 32K
+       20 8E 40 F1 00 8E BF B4 F4 EF 6D 57 A6 DF F4 F5>)
+##END=
+
+$$ hash MD5
+$$ 8A FD 0E 5C 6F B6 4F 9D C4 1B E3 EE C3 7C 0F A5

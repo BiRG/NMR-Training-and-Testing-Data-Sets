@@ -1,0 +1,14 @@
+##TITLE= Audit trail, XWIN-NMR		Version 3.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker Analytik GmbH
+##OWNER= jps30
+$$ C:\u/data/jps30/nmr/Glutamic_acid/7/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-07-19 20:12:07.60 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 64K
+       8A C5 37 F3 53 8A D7 65 B3 FE 69 0B 98 CF EB F3>)
+##END=
+
+$$ hash MD5
+$$ B7 03 66 BD 9E 82 35 AF 08 7D 6B 5F E7 5F DB 32

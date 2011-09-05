@@ -1,0 +1,11 @@
+##TITLE= Parameter file, XWIN-NMR		Version 3.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##ORIGIN= UXNMR, Bruker Analytische Messtechnik GmbH
+##OWNER= moj
+$$ Mon Jan 20 13:51:59 2003 GMT (UT+0h)  tanghr@bc-jkn-41
+$$ /u/data/tanghr/nmr/ht24a_cells/1/acqum
+##$NPROJEC= 32 
+##$NSLICES= 32 
+##$PROSOL= no
+##END=

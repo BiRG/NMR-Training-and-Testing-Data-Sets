@@ -1,0 +1,14 @@
+##TITLE= Audit trail, XWIN-NMR		Version 3.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker Analytik GmbH
+##OWNER= jps30
+$$ C:\u/data/jps30/nmr/Threonic_acid/7/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-09-15 04:21:21.21 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 64K
+       13 8F 90 E5 04 A9 84 B1 4A 05 77 0E 41 11 D9 04>)
+##END=
+
+$$ hash MD5
+$$ 0B 03 F1 F5 F2 C1 2E 5C 86 65 3A 1B 9C 51 35 70

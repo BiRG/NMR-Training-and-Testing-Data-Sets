@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ O:/data/tebbels/nmr/Methionine/13/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-07-10 10:05:04.28 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 32K
+       A8 27 E4 43 6D 43 49 14 51 E6 7C 95 56 E5 4D C4>)
+(   2,<2010-05-25 14:19:19.567 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       efp BC_mod = 6 BCFW = 0.3 COROFFS = -1 LB = 1 FT_mod = 6 PKNL = 1 PHC0 = -140.3076 PHC1 = -5.245362 TDeff = 16K SI = 32K 
+       data hash MD5: 32K
+       A1 44 DE F0 B3 A5 84 65 AA 59 11 40 60 18 87 AC>)
+(   3,<2010-05-25 14:20:03.392 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 0 32768 2.537946e+005 -2.081522e+001 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 32K
+       62 2B E8 E8 83 4A 45 71 43 F3 64 57 8B C8 3C 2E>)
+##END=
+
+$$ hash MD5
+$$ CA 25 60 C0 8B 23 39 24 BB 0E 19 0B 6A AC F4 15

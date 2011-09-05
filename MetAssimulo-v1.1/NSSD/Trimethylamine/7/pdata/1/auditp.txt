@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ O:/data/tebbels/nmr/Trimethylamine/7/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-08-23 01:48:22.23 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 64K
+       5C 0A 19 DB C3 E3 FE 43 FF 33 75 B8 D0 D3 81 80>)
+(   2,<2010-05-25 15:50:44.016 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       efp BC_mod = 6 BCFW = 0.3 LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = -60.31815 PHC1 = -51.28545 TDeff = 16K SI = 64K 
+       data hash MD5: 64K
+       31 23 42 1A 5F A4 69 60 96 0A A5 CF E9 9E D4 E7>)
+(   3,<2010-05-25 15:51:00.707 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 0 65483 0.000000e+000 -8.610439e-001 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 64K
+       41 45 18 A9 55 FA A1 17 7B 17 D1 65 D2 D6 54 BE>)
+##END=
+
+$$ hash MD5
+$$ 95 9F 6B D4 48 CA CE 6F F3 B0 F6 17 6A EF 7E F2

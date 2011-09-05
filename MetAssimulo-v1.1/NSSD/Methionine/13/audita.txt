@@ -1,0 +1,14 @@
+##TITLE= Audit trail, XWIN-NMR		Version 3.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker Analytik GmbH
+##OWNER= jps30
+$$ C:\u/data/jps30/nmr/Methionine/13/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-07-10 10:05:04.28 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 32K
+       A8 27 E4 43 6D 43 49 14 51 E6 7C 95 56 E5 4D C4>)
+##END=
+
+$$ hash MD5
+$$ A0 33 C2 38 C2 AE F6 B0 ED 87 34 CE 73 DB 12 54

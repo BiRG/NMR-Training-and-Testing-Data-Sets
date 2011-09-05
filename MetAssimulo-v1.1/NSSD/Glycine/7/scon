@@ -1,0 +1,23 @@
+##TITLE= Parameter file, XWIN-NMR		Version 3.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##ORIGIN= Bruker Analytik GmbH
+##OWNER= jps30
+$$ Thu Aug  8 05:41:41 2002 GMT Daylight Time (UT+1h)  jps30@ML-DESKTOP4
+$$ C:\u/data/jps30/nmr/Glycine/7/scon
+##$BLKPA= (0..15)
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+##$BLKTR= (0..15)
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+##$DE1= 2
+##$DE2= 2
+##$DEADC= 4
+##$DEPA= 2
+##$DERX= 3
+##$PHASP4= (0..15)
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+##$PHASPR= (0..15)
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+##$SHAPPR= (0..15)
+1.6 1.6 1.6 1.6 1.6 1.6 1.6 1.6 1.6 1.6 1.6 1.6 1.6 1.6 1.6 1.6 
+##END=

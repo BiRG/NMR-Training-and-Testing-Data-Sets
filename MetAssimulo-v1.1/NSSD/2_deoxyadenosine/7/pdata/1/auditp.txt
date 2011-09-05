@@ -1,0 +1,27 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ O:/data/tebbels/nmr/2_deoxyadenosine/7/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-08-17 21:03:05.11 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 64K
+       04 60 7E 0C 35 2F 6F B5 27 CD 41 F2 9B 7D C7 32>)
+(   2,<2010-05-24 12:54:57.932 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       efp BC_mod = 6 BCFW = 0.2 LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 44.03405 PHC1 = -36.41255 TDeff = 16K SI = 64K 
+       data hash MD5: 64K
+       14 86 DF B6 24 43 34 8C 83 9D C3 B0 89 45 99 A4>)
+(   3,<2010-05-24 15:23:03.851 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 0 65536 -6.769632e+005 -7.330712e+000 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 64K
+       C6 78 AF 81 11 14 D2 A4 D7 03 0A EB 1C 72 0C 2E>)
+(   4,<2010-05-24 15:25:02.086 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <pk fgphup PHC0 = 5.074951 PHC1 = -8.2 
+       data hash MD5: 64K
+       83 1A 07 95 23 79 E0 2C 7B 22 CC A0 7C B7 71 D3>)
+##END=
+
+$$ hash MD5
+$$ 41 52 C5 6E E2 8F 24 FA 03 62 0C 35 EB 1E 6D 7F

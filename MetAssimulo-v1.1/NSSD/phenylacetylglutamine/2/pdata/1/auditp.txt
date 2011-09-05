@@ -1,0 +1,37 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ O:/data/tebbels/nmr/phenylacetylglutamine/2/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2007-02-09 14:31:13.15 +000>,<Bruker>,<BC-TANGHR5>,
+      <created by zg, POWCHK disabled, PULCHK disabled
+       configuration hash MD5:
+       E7 61 AE AE 00 FF 6A EC 27 FB C5 F7 C8 E8 52 35
+       data hash MD5: 32K
+       8D AB 34 F6 D2 1A D4 43 EB 79 B6 37 A8 BA 2C B7>)
+(   2,<2010-05-25 15:08:01.535 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       efp BC_mod = 6 BCFW = 0.5 COROFFS = -14 LB = 1 FT_mod = 6 PKNL = 1 PHC0 = 61.80484 PHC1 = -15 SI = 32K 
+       data hash MD5: 32K
+       83 74 45 F8 C7 6F D8 99 89 AF 08 D9 1E E8 05 8D>)
+(   3,<2010-05-25 15:32:29.967 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 18593 14146 -4.538263e+006 1.146137e+002 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 32K
+       33 23 C2 FC 09 B8 8B F7 A4 23 C1 EB 02 B2 CA B8>)
+(   4,<2010-05-25 15:33:19.041 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 16552 2014 -2.798716e+006 -8.146111e+002 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 32K
+       B4 CD 3A C1 A2 F0 7B E8 F9 7B 90 1B 1B 86 E9 23>)
+(   5,<2010-05-25 15:33:59.816 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 83 16442 -3.843280e+006 0.000000e+000 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 32K
+       6C C8 CE DB 56 CF E8 00 17 A7 0B 89 41 20 77 EE>)
+(   6,<2010-05-25 15:34:38.543 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 27 7314 2.799741e+005 -4.430463e+001 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 32K
+       C0 75 FB CE C1 1D F0 05 92 F5 7A DE 7B DF 7D 27>)
+##END=
+
+$$ hash MD5
+$$ FE 99 D0 9D 01 F7 25 01 2C A7 EA 26 88 6C CC A6

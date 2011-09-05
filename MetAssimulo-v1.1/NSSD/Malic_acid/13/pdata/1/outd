@@ -1,0 +1,15 @@
+##TITLE= Parameter file, XWIN-NMR		Version 3.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##ORIGIN= Bruker Analytik GmbH
+##OWNER= jps30
+$$ Fri Jul 12 03:29:05 2002 GMT Daylight Time (UT+1h)  jps30@ML-DESKTOP4
+$$ C:\u/data/jps30/nmr/Malic_acid/13/pdata/1/outd
+##$CURPLOT= <\\ML-DESKTOP2\hp3200>
+##$CURPRIN= <$\\ML-DESKTOP2\hp3200>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_X_mtx.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##$SURQMSG= 1
+##END=

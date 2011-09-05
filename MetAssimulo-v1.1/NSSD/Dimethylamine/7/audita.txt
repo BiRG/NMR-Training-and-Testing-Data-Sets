@@ -1,0 +1,14 @@
+##TITLE= Audit trail, XWIN-NMR		Version 3.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker Analytik GmbH
+##OWNER= jps30
+$$ C:\u/data/jps30/nmr/Dimethylamine/7/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-08-23 06:26:35.20 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 64K
+       2E 0D A7 82 B0 21 CE 4A 8A 9A D4 DA 7E 9A 96 8C>)
+##END=
+
+$$ hash MD5
+$$ 94 F7 92 7B 87 59 87 2A 2D 2E 20 46 4B 92 64 2F

@@ -1,0 +1,19 @@
+##TITLE= Parameter file, XWIN-NMR		Version 3.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##ORIGIN= Bruker Analytik GmbH
+##OWNER= hckeun
+$$ Wed Aug 18 17:55:40 2004 GMT Daylight Time (UT+1h)  IC\hckeun@BC-JKN-51
+$$ M:/data/nmr_standards/nmr/Dimethylglycine/7/pdata/1/curdat2
+##$DU2= <M:>
+##$DU3= <M:>
+##$EXPNO2= 7
+##$EXPNO3= 7
+##$NAME2= <Dimethylglycine>
+##$NAME3= <Dimethylglycine>
+##$PROCNO2= 2
+##$PROCNO3= 2
+##$TYPE= <nmr>
+##$USER2= <nmr_standards>
+##$USER3= <nmr_standards>
+##END=

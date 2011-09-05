@@ -1,0 +1,21 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ O:/data/tebbels/nmr/guanidoacetic_acid/7/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2007-05-27 13:23:45.21 +0100>,<comet>,<bc-jkn-17.sk.med.ic.ac.uk>,
+      <created by zg, POWCHK disabled, PULCHK disabled
+       configuration hash MD5:
+       A5 81 73 8C 53 CC 74 CF 3E 77 E9 D4 3D 79 22 C2
+       data hash MD5: 32K
+       20 8E 40 F1 00 8E BF B4 F4 EF 6D 57 A6 DF F4 F5>)
+(   2,<2010-05-25 13:12:41.245 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       efp BC_mod = 6 BCFW = 0.3 LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = -115.3747 PHC1 = -32.59649 SI = 32K 
+       data hash MD5: 32K
+       C2 C9 27 F3 19 44 3C 01 0C 14 8B F1 08 8E FA 23>)
+##END=
+
+$$ hash MD5
+$$ 95 05 5C 68 72 10 F5 9A 94 71 30 7F 17 E6 DB 07

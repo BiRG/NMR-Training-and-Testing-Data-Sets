@@ -1,0 +1,14 @@
+##TITLE= Audit trail, XWIN-NMR		Version 3.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker Analytik GmbH
+##OWNER= jps30
+$$ C:\u/data/jps30/nmr/2-oxoglutarate/7/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-08-21 20:30:45.92 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 64K
+       EF FD EB F1 61 A9 A6 83 EC 13 33 02 BB 03 5D E5>)
+##END=
+
+$$ hash MD5
+$$ 57 56 6E 4B E0 0E B1 9A DD 8B E1 6C 94 8F 8E 2C

@@ -1,0 +1,14 @@
+##TITLE= Audit trail, XWIN-NMR		Version 3.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker Analytik GmbH
+##OWNER= jps30
+$$ C:\u/data/jps30/nmr/Dimethylglycine/7/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-08-22 15:20:48.48 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 64K
+       D4 53 67 04 EC 7C 32 16 04 AB 2F 0E 93 62 CD EF>)
+##END=
+
+$$ hash MD5
+$$ 53 86 1F 48 F8 B5 45 3C 12 A1 D9 FB 98 02 DC 6D

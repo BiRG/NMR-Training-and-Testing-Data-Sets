@@ -1,0 +1,25 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ O:/data/tebbels/nmr/p-cresol_sulfate/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2007-01-25 14:58:08.59 +000>,<Bruker>,<BC-TANGHR5>,
+      <created by zg, POWCHK disabled, PULCHK disabled
+       configuration hash MD5:
+       02 88 C7 55 A0 B9 AE 9A 12 15 81 F0 97 AC BE F6
+       data hash MD5: 64K
+       A5 2A E5 65 4A C4 1E D9 02 AE 42 13 0F 05 AD 0A>)
+(   2,<2010-05-25 14:44:28.184 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       efp BC_mod = 6 BCFW = 1 LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 44.5303 PHC1 = -12.2 SI = 64K 
+       data hash MD5: 64K
+       9E 31 D8 8C 57 A3 A5 3B 57 39 1C 94 92 ED 1B 6C>)
+(   3,<2010-05-25 14:46:11.691 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 0 65536 -5.797374e+006 -1.344259e+002 1.958542e-003 0.000000e+000 0.000000e+000 
+       data hash MD5: 64K
+       74 CC 4A 6A FA 4B 26 43 AE 2C 39 DD 00 A5 22 93>)
+##END=
+
+$$ hash MD5
+$$ CA 9C C3 BB 4B 08 D2 99 4E 1D 05 AE AE EB BE 99

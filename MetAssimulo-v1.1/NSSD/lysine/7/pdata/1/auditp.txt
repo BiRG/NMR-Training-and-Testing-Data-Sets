@@ -1,0 +1,25 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ O:/data/tebbels/nmr/lysine/7/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2007-05-27 13:38:24.16 +0100>,<comet>,<bc-jkn-17.sk.med.ic.ac.uk>,
+      <created by zg, POWCHK disabled, PULCHK disabled
+       configuration hash MD5:
+       A5 81 73 8C 53 CC 74 CF 3E 77 E9 D4 3D 79 22 C2
+       data hash MD5: 32K
+       C9 6B 68 CE F2 21 D9 47 D4 99 69 C8 47 AF E7 29>)
+(   2,<2010-05-25 14:11:07.435 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       efp BC_mod = 6 BCFW = 0.2 LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = -123.2114 PHC1 = -19.39649 SI = 32K 
+       data hash MD5: 32K
+       57 B0 F5 BE C5 48 28 0E EC E5 EE 75 7C 74 26 D5>)
+(   3,<2010-05-25 14:11:55.200 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 0 32768 -4.651387e+005 0.000000e+000 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 32K
+       42 2A DD 54 D6 B8 28 35 CB E1 41 B5 15 B4 59 FC>)
+##END=
+
+$$ hash MD5
+$$ 6B B5 F7 53 89 16 2F EC 97 0E 4F DD 0B 9D 82 21

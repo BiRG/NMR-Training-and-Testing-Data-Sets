@@ -1,0 +1,15 @@
+##TITLE= Parameter file, XWIN-NMR		Version 3.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##ORIGIN= Bruker Analytik GmbH
+##OWNER= jps30
+$$ Fri Aug 23 19:54:57 2002 GMT Daylight Time (UT+1h)  jps30@ML-DESKTOP4
+$$ C:\u/data/jps30/nmr/cis-aconitic_acid/7/pdata/1/outd
+##$CURPLOT= <\\ML-DESKTOP2\hp3200>
+##$CURPRIN= <$\\ML-DESKTOP2\hp3200>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_X_mtx.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##$SURQMSG= 1
+##END=

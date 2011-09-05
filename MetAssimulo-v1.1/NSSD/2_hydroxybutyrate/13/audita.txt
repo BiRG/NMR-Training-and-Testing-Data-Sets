@@ -1,0 +1,14 @@
+##TITLE= Audit trail, XWIN-NMR		Version 3.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker Analytik GmbH
+##OWNER= jps30
+$$ C:\u/data/jps30/nmr/2_hydroxybutyrate/13/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-07-11 17:13:32.21 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 32K
+       EF 31 E1 B5 C8 6E 4D D8 85 14 2E 33 B5 5A 2A BC>)
+##END=
+
+$$ hash MD5
+$$ 88 83 E2 A8 06 5D 87 53 7B 1D 3F 91 7F 89 DE D5

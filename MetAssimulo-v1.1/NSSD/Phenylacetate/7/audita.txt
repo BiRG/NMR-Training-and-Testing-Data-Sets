@@ -1,0 +1,14 @@
+##TITLE= Audit trail, XWIN-NMR		Version 3.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker Analytik GmbH
+##OWNER= jps30
+$$ C:\u/data/jps30/nmr/Phenylacetic_acid/7/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-07-19 19:21:28.86 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 64K
+       CE 16 FF B2 B6 18 C3 B3 66 82 3C 90 2B DD B5 2A>)
+##END=
+
+$$ hash MD5
+$$ 01 B3 6C 6E 92 BD C0 0C 8C A6 A2 20 D6 17 00 78

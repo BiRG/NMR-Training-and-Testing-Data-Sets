@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ O:/data/tebbels/nmr/Phenylacetate/7/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-07-19 19:21:28.86 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 64K
+       CE 16 FF B2 B6 18 C3 B3 66 82 3C 90 2B DD B5 2A>)
+(   2,<2010-05-25 14:52:19.709 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       efp BC_mod = 6 BCFW = 0.5 LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 81.5978 PHC1 = -35.95159 TDeff = 16K SI = 64K 
+       data hash MD5: 64K
+       42 63 8E B6 0F 96 72 4A A4 D9 DC D7 2B 7B 50 FD>)
+(   3,<2010-05-25 14:52:54.935 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 0 65536 -8.396555e+005 1.822169e+001 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 64K
+       D4 C5 0F D2 DD A9 9A D1 00 63 92 AE FE 5E 5C E5>)
+##END=
+
+$$ hash MD5
+$$ BF 54 C1 45 B2 36 70 78 49 2D 1B F7 3C 84 B1 AA

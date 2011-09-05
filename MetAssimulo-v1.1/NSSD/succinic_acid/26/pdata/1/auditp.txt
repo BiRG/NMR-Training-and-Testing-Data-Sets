@@ -1,0 +1,22 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ O:/data/tebbels/nmr/succinic_acid/26/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2010-05-25 15:36:44.822 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <efp BC_mod = 6 BCFW = 0.7 LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 29.3034 PHC1 = -18.2 SI = 64K 
+       data hash MD5: 64K
+       D1 F7 43 BF C5 0E 1A A8 73 2D 7D 6F A9 EA FA 27>)
+(   2,<2010-05-25 15:39:23.953 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 0 65536 6.843056e+004 -1.093369e-001 -1.276287e-005 0.000000e+000 0.000000e+000 
+       data hash MD5: 64K
+       5C EE D1 E5 20 EB A4 1F 5F E5 32 12 A1 B2 61 98>)
+(   3,<2010-05-25 15:39:43.254 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <pk fgphup PHC0 = -0.2449219 PHC1 = 0 
+       data hash MD5: 64K
+       56 BD 80 8E 2A C3 E8 B7 C1 C4 29 5B BA A0 B2 48>)
+##END=
+
+$$ hash MD5
+$$ 99 CB 09 0F 67 D3 6A CC D1 D8 96 B7 71 20 BF 00

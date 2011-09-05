@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ O:/data/tebbels/nmr/Dimethylglycine/7/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-08-22 15:20:48.48 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 64K
+       D4 53 67 04 EC 7C 32 16 04 AB 2F 0E 93 62 CD EF>)
+(   2,<2010-05-25 11:03:35.672 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       efp BC_mod = 6 BCFW = 0.5 LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = -65.59666 PHC1 = -43.98872 TDeff = 16K SI = 64K 
+       data hash MD5: 64K
+       85 6C B8 88 D5 2C EB 05 30 D0 F4 EB A6 43 46 71>)
+(   3,<2010-05-25 11:04:10.730 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 0 65536 -1.182983e+005 1.388529e+000 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 64K
+       58 DE 2C 57 97 4A 07 D1 89 93 F5 9A B9 6D 50 C2>)
+##END=
+
+$$ hash MD5
+$$ BE 27 A6 AA BE F4 F2 80 09 76 4C 24 BE 54 CD 7D

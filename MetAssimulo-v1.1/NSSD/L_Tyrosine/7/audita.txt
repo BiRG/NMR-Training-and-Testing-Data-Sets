@@ -1,0 +1,14 @@
+##TITLE= Audit trail, XWIN-NMR		Version 3.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker Analytik GmbH
+##OWNER= jps30
+$$ C:\u/data/jps30/nmr/L_Tyrosine/7/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2002-09-24 18:09:33.10 +100>,<jps30>,<ML-DESKTOP4>,
+      <created by zg
+       data hash MD5: 64K
+       3F DB 7F 76 EC B7 27 6A 4A 09 11 03 1A B1 96 2B>)
+##END=
+
+$$ hash MD5
+$$ 5F EC F9 39 36 E3 05 1A F2 5B 14 5A F7 B2 E7 B8

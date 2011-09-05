@@ -1,0 +1,22 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= tebbels
+$$ O:/data/tebbels/nmr/N-methylnicotinic_acid/100/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2010-05-25 14:30:03.309 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <efp BC_mod = 6 BCFW = 0.1 LB = 1 FT_mod = 6 PKNL = 1 PHC0 = 507.3494 PHC1 = -17.40017 SI = 32K 
+       data hash MD5: 32K
+       23 40 63 25 08 18 1D DC 9F 56 6B 46 1E B0 D5 C1>)
+(   2,<2010-05-25 14:30:36.991 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 0 16402 -1.620537e+005 0.000000e+000 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 32K
+       AB 41 1D 50 1B CF 1D EC 04 EC 1E CE 21 0E C2 1B>)
+(   3,<2010-05-25 14:31:13.626 +0100>,<IC\tebbels>,<DS-TEBBELSXP>,<proc1d>,<TOPSPIN 2.1>,
+      <bcm 0 16401 16328 -2.651787e+005 0.000000e+000 0.000000e+000 0.000000e+000 0.000000e+000 
+       data hash MD5: 32K
+       B1 78 A2 18 01 E9 ED 32 C4 17 C8 87 01 B5 62 2A>)
+##END=
+
+$$ hash MD5
+$$ 72 54 EA 26 67 C1 48 F4 4F F7 F1 8C 32 AB CE 51
